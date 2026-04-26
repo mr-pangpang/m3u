@@ -348,60 +348,7 @@ https://live.ottiptv.cc/huya/11274154
 
 
 #•央视「频道」
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="•央视「频道」",CCTV-1综合
-https://live.tv.darwinchow.com/channel/cctv1?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" group-title="•央视「频道」",CCTV-2财经
-https://live.tv.darwinchow.com/channel/cctv2?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" group-title="•央视「频道」",CCTV-3综艺
-https://live.tv.darwinchow.com/channel/cctv3?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" group-title="•央视「频道」",CCTV-4中文国际
-https://live.tv.darwinchow.com/channel/cctv4?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" group-title="•央视「频道」",CCTV-5体育
-https://live.tv.darwinchow.com/channel/cctv5?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" group-title="•央视「频道」",CCTV-5+体育赛事
-https://live.tv.darwinchow.com/channel/cctv5p?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" group-title="•央视「频道」",CCTV-6电影
-https://live.tv.darwinchow.com/channel/cctv6?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" group-title="•央视「频道」",CCTV-7国防军事
-https://live.tv.darwinchow.com/channel/cctv7?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV8.png" group-title="•央视「频道」",CCTV-8电视剧
-https://live.tv.darwinchow.com/channel/cctv8?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" group-title="•央视「频道」",CCTV-9纪录
-https://live.tv.darwinchow.com/channel/cctv9?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" group-title="•央视「频道」",CCTV-10科教
-https://live.tv.darwinchow.com/channel/cctv10?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" group-title="•央视「频道」",CCTV-11戏曲
-https://live.tv.darwinchow.com/channel/cctv11?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" group-title="•央视「频道」",CCTV-12社会与法
-https://live.tv.darwinchow.com/channel/cctv12?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" group-title="•央视「频道」",CCTV-13新闻
-https://live.tv.darwinchow.com/channel/cctv13?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" group-title="•央视「频道」",CCTV-14少儿
-https://live.tv.darwinchow.com/channel/cctv14?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" group-title="•央视「频道」",CCTV-15音乐
-https://live.tv.darwinchow.com/channel/cctv15?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="•央视「频道」",CCTV-16奥林匹克
-https://live.tv.darwinchow.com/channel/cctv16?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="•央视「频道」",CCTV-16奥林匹克4K
-https://live.tv.darwinchow.com/channel/cctv164k?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" group-title="•央视「频道」",CCTV-17农业农村
-https://live.tv.darwinchow.com/channel/cctv17?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="•央视「频道」",CCTV-4K超高清
-https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" group-title="•央视「频道」",CGTN新闻
-https://live.tv.darwinchow.com/channel/cgtn?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN纪录.png" group-title="•央视「频道」",CGTN纪录
-https://live.tv.darwinchow.com/channel/cgtndocumentary?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN西语.png" group-title="•央视「频道」",CGTN西班牙语
-https://live.tv.darwinchow.com/channel/cgtnspanish?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN法语.png" group-title="•央视「频道」",CGTN法语
-https://live.tv.darwinchow.com/channel/cgtnfrench?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN阿语.png" group-title="•央视「频道」",CGTN阿拉伯语
-https://live.tv.darwinchow.com/channel/cgtnarabic?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CGTN俄语.png" group-title="•央视「频道」",CGTN俄语
-https://live.tv.darwinchow.com/channel/cgtnrussian?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
-#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/中视购物.png" group-title="•央视「频道」",中视购物
-https://live.tv.darwinchow.com/channel/zhongshigouwu?livekey=01WNeWZYb3c99JS2Mqe64EmVy8gRon0YIk0sc&userkey=1a92c1c3ed4cc41a
+
 #•央视「频道」
 
 
