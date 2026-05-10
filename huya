@@ -1,7 +1,5 @@
 ﻿#EXTM3U 
 #•影视「轮播」
-#EXTINF:-1 tvg-logo="https://hk.gh-proxy.org/https://github.com/mr-pangpang/disk/blob/main/huya.png" group-title="•影视「轮播」",李连杰播
-https://www.huya.com/11342390
 #EXTINF:-1 tvg-logo="https://hk.gh-proxy.org/https://github.com/mr-pangpang/disk/blob/main/huya.png" group-title="•影视「轮播」",速度与激情
 http://123.56.43.183:35455/huya/29982635
 #EXTINF:-1 tvg-logo="https://hk.gh-proxy.org/https://github.com/mr-pangpang/disk/blob/main/huya.png" group-title="•影视「轮播」",周星驰
